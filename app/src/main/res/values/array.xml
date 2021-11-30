@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notes">
+        <item>Заметка 1</item>
+        <item>Заметка 2</item>
+        <item>Заметка 3</item>
+        <item>Заметка 4</item>
+        <item>Заметка 5</item>
+    </string-array>
+    <string-array name="notes_content">
+        <item>Описание заметки 1</item>
+        <item>Описание заметки 2</item>
+        <item>Описание заметки 3</item>
+        <item>Описание заметки 4</item>
+        <item>Описание заметки 5</item>
+    </string-array>
+    <string-array name="notes_date">
+        <item>Дата заметки 1</item>
+        <item>Дата заметки 2</item>
+        <item>Дата заметки 3</item>
+        <item>Дата заметки 4</item>
+        <item>Дата заметки 5</item>
+    </string-array>
+    <string-array name="notes_place">
+        <item>Место заметки 1</item>
+        <item>Место заметки 2</item>
+        <item>Место заметки 3</item>
+        <item>Место заметки 4</item>
+        <item>Место заметки 5</item>
+    </string-array>
+</resources>

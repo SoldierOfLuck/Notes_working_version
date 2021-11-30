@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Заметки</string>
+    <string name="create">создать</string>
+    <string name="settings">настройки</string>
+    <string name="data">сведения</string>
+    <string name="regular_style">обычный стиль</string>
+    <string name="light_style">яркий стиль</string>
+    <string name="dark_style">темный стиль</string>
+    <string name="back">назад</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
